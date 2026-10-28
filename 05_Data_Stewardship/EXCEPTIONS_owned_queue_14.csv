@@ -1,0 +1,15 @@
+﻿ticket,master_id,defect,disposition,owner
+DQ-021-006,CUST-00006,Missing owner,Block operational publication,Sales Ops
+DQ-021-007,CUST-00007,Missing owner,Block operational publication,Sales Ops
+DQ-021-008,CUST-00008,Missing owner,Block operational publication,Sales Ops
+DQ-021-009,CUST-00009,Missing owner,Block operational publication,Sales Ops
+DQ-021-010,CUST-00010,Missing owner,Block operational publication,Sales Ops
+DQ-021-011,CUST-00011,Missing owner,Block operational publication,Sales Ops
+DQ-021-012,CUST-00012,Missing owner,Block operational publication,Sales Ops
+DQ-021-013,CUST-00013,Missing owner,Block operational publication,Sales Ops
+DQ-021-014,CUST-00014,Missing owner,Block operational publication,Sales Ops
+DQ-021-015,CUST-00015,Missing owner,Block operational publication,Sales Ops
+DQ-022-018,CUST-00018,Invalid state code,Block operational publication,CRM Admin
+DQ-022-019,CUST-00019,Invalid state code,Block operational publication,CRM Admin
+DQ-022-020,CUST-00020,Invalid state code,Block operational publication,CRM Admin
+DQ-023-001,CUST-00062,Unconfirmed name alias,Nonblocking review,Data Steward

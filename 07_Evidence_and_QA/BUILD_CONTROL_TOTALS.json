@@ -1,0 +1,28 @@
+{
+  "data_entry": {
+    "source": 120,
+    "accepted": 104,
+    "duplicates": 10,
+    "holds": 6
+  },
+  "ar": {
+    "invoices": 24,
+    "receipts": 13,
+    "credits": 2,
+    "billed": "18520.00",
+    "paid": "5815.00",
+    "credits_usd": "70.00",
+    "open": "12635.00"
+  },
+  "medical": {
+    "previous_cases": 6,
+    "extra_review_cases": 6,
+    "total": 12
+  },
+  "stewardship": {
+    "source": 480,
+    "canonical": 462,
+    "candidate_pair_decisions": 27,
+    "exceptions": 14
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "converted_documents": [
+    {
+      "file": "03_Billing_Payroll/03_Billing_Payroll_Reconciliation.pdf",
+      "pages": 12,
+      "bookmarks": 29,
+      "searchable_chars": 15642
+    },
+    {
+      "file": "06_PDF_Production_and_Forms/PDF_Production_Operations_Handbook.pdf",
+      "pages": 2,
+      "bookmarks": 8,
+      "searchable_chars": 4329
+    },
+    {
+      "file": "01_Data_Entry_Verification/01_Customer_Data_Entry_Verification.pdf",
+      "pages": 11,
+      "bookmarks": 27,
+      "searchable_chars": 15568
+    },
+    {
+      "file": "01_Data_Entry_Verification/BONUS_Finished_Merged_Letters_9.pdf",
+      "pages": 9,
+      "bookmarks": 9,
+      "searchable_chars": 4701
+    },
+    {
+      "file": "01_Data_Entry_Verification/BONUS_Word_Mail_Merge_Master.pdf",
+      "pages": 1,
+      "bookmarks": 1,
+      "searchable_chars": 740
+    },
+    {
+      "file": "05_Data_Stewardship/05_Data_Stewardship_Governance.pdf",
+      "pages": 12,
+      "bookmarks": 26,
+      "searchable_chars": 16046
+    },
+    {
+      "file": "04_Health_Information_Coding/04_Health_Information_Coding_QA.pdf",
+      "pages": 11,
+      "bookmarks": 30,
+      "searchable_chars": 16873
+    },
+    {
+      "file": "02_Transcription_Word_Processing/02_Transcription_Typing_Word_Processing.pdf",
+      "pages": 12,
+      "bookmarks": 25,
+      "searchable_chars": 17931
+    },
+    {
+      "file": "02_Transcription_Word_Processing/BONUS_Transcription_Blank_Practice.pdf",
+      "pages": 2,
+      "bookmarks": 2,
+      "searchable_chars": 2809
+    },
+    {
+      "file": "00_Start_Here/FULL_Portfolio_Professional_Review_Guide.pdf",
+      "pages": 2,
+      "bookmarks": 5,
+      "searchable_chars": 2897
+    },
+    {
+      "file": "00_Start_Here/START_HERE_Word_Portfolio_Guide.pdf",
+      "pages": 2,
+      "bookmarks": 7,
+      "searchable_chars": 4173
+    },
+    {
+      "file": "00_Start_Here/BONUS_Reusable_Word_Change_Request_Form.pdf",
+      "pages": 1,
+      "bookmarks": 3,
+      "searchable_chars": 1065
+    },
+    {
+      "file": "00_Start_Here/BONUS_ReadOnly_Control_Demonstration.pdf",
+      "pages": 1,
+      "bookmarks": 3,
+      "searchable_chars": 1065
+    }
+  ],
+  "special_pdf_outputs": {
+    "Customer_Intake_FILLABLE.pdf": {
+      "pages": 1,
+      "form_fields": 12,
+      "bookmarks": 0,
+      "text_chars": 501
+    },
+    "Document_Release_Checklist_FILLABLE.pdf": {
+      "pages": 1,
+      "form_fields": 11,
+      "bookmarks": 0,
+      "text_chars": 489
+    },
+    "Customer_Intake_FILLED_EXAMPLE.pdf": {
+      "pages": 1,
+      "form_fields": 12,
+      "bookmarks": 0,
+      "text_chars": 650
+    },
+    "Customer_Intake_FLATTENED_EXAMPLE.pdf": {
+      "pages": 1,
+      "form_fields": 0,
+      "bookmarks": 0,
+      "text_chars": 650
+    },
+    "Synthetic_Private_Info_BEFORE_Redaction.pdf": {
+      "pages": 1,
+      "form_fields": 0,
+      "bookmarks": 0,
+      "text_chars": 420
+    },
+    "Synthetic_Private_Info_AFTER_TRUE_Redaction.pdf": {
+      "pages": 1,
+      "form_fields": 0,
+      "bookmarks": 0,
+      "text_chars": 390
+    },
+    "ALL_PROJECTS_Searchable_Bookmarked_Portfolio_Reader.pdf": {
+      "pages": 62,
+      "form_fields": 0,
+      "bookmarks": 157,
+      "text_chars": 89286
+    }
+  }
+}

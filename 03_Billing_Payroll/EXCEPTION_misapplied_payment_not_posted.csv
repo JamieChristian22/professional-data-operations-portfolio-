@@ -1,0 +1,2 @@
+﻿receipt_id,supplied_invoice_id,amount_usd,disposition
+RCPT-EXC-01,BILL-3999,50.00,"Unmatched ID; hold in unapplied cash, not A/R allocation"

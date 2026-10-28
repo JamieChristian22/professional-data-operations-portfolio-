@@ -1,0 +1,7 @@
+﻿encounter_id,coding_result,status,next_action
+PX-101,I10; E11.9,Reviewed / simulation,No action in demo
+PX-102,J06.9,Reviewed / simulation,No action in demo
+PX-103,NONE,Hold / provider query,Document final assessment; review symptoms supported by note
+PX-104,M25.561,Reviewed / symptom supported,No action in demo
+PX-105,E11.65,Reviewed / simulation,No action in demo
+PX-106,NONE,Hold / avoid probable diagnosis,Document final assessment; review symptoms supported by note

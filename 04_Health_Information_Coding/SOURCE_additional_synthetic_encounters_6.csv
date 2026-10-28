@@ -1,0 +1,7 @@
+﻿encounter_id,date,authentication,clinical_abstract,review_decision,documentation_control
+PX-107,2026-10-27,Signed,"Follow-up visit; symptom of intermittent dizziness documented, final cause not established",Code review - symptom only,Do not infer disease cause
+PX-108,2026-10-27,Unsigned,Progress note mentions diabetes medication change without authenticated assessment,HOLD - unsigned,Obtain authenticated note
+PX-109,2026-10-27,Signed,Provider documents history of resolved condition; no active treatment,Code review - history context,Review documentation and official index
+PX-110,2026-10-27,Signed,Provider documents possible sinus infection pending lab results,HOLD - uncertain diagnosis,Do not code suspected as confirmed outpatient diagnosis
+PX-111,2026-10-27,Signed,Encounter for wound follow-up; laterality missing in assessment,HOLD - specificity,Seek non-leading clarification
+PX-112,2026-10-27,Signed,Documented preventive care encounter with routine screening,Code review - verify purpose,Check official code set and encounter facts

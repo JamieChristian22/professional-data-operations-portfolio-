@@ -1,0 +1,28 @@
+﻿source_a,source_b,decision,evidence,destination
+S-019,S-204,MERGE,Verified same external_key; original lineage retained,CUST-00019
+S-097,S-371,MERGE,Verified same external_key; original lineage retained,CUST-00097
+S-222,S-228,MERGE,Verified same external_key; original lineage retained,CUST-00222
+S-011,S-463,MERGE,Verified same external_key; original lineage retained,CUST-00011
+S-027,S-464,MERGE,Verified same external_key; original lineage retained,CUST-00027
+S-038,S-465,MERGE,Verified same external_key; original lineage retained,CUST-00038
+S-049,S-466,MERGE,Verified same external_key; original lineage retained,CUST-00049
+S-063,S-467,MERGE,Verified same external_key; original lineage retained,CUST-00063
+S-081,S-468,MERGE,Verified same external_key; original lineage retained,CUST-00081
+S-115,S-469,MERGE,Verified same external_key; original lineage retained,CUST-00115
+S-128,S-470,MERGE,Verified same external_key; original lineage retained,CUST-00128
+S-144,S-471,MERGE,Verified same external_key; original lineage retained,CUST-00144
+S-176,S-472,MERGE,Verified same external_key; original lineage retained,CUST-00176
+S-205,S-473,MERGE,Verified same external_key; original lineage retained,CUST-00205
+S-238,S-474,MERGE,Verified same external_key; original lineage retained,CUST-00238
+S-256,S-475,MERGE,Verified same external_key; original lineage retained,CUST-00256
+S-311,S-476,MERGE,Verified same external_key; original lineage retained,CUST-00311
+S-359,S-477,MERGE,Verified same external_key; original lineage retained,CUST-00359
+S-061,S-062,KEEP BOTH,Shared contact/phone does not prove same legal entity,Distinct master IDs
+S-155,S-157,KEEP BOTH,Shared contact/phone does not prove same legal entity,Distinct master IDs
+S-040,S-041,KEEP BOTH,Shared contact/phone does not prove same legal entity,Distinct master IDs
+S-075,S-076,KEEP BOTH,Shared contact/phone does not prove same legal entity,Distinct master IDs
+S-100,S-101,KEEP BOTH,Shared contact/phone does not prove same legal entity,Distinct master IDs
+S-120,S-121,KEEP BOTH,Shared contact/phone does not prove same legal entity,Distinct master IDs
+S-180,S-181,KEEP BOTH,Shared contact/phone does not prove same legal entity,Distinct master IDs
+S-250,S-251,KEEP BOTH,Shared contact/phone does not prove same legal entity,Distinct master IDs
+S-300,S-301,KEEP BOTH,Shared contact/phone does not prove same legal entity,Distinct master IDs

@@ -1,0 +1,25 @@
+﻿invoice_id,customer,service,units,unit_rate_usd,invoice_amount_usd,due_date
+BILL-3101,Sample Business 01,Customer support hours,4,55.00,220.00,2026-10-15
+BILL-3102,Sample Business 02,Document quality review,6,60.00,360.00,2026-10-16
+BILL-3103,Sample Business 03,Data conversion,8,65.00,520.00,2026-10-17
+BILL-3104,Sample Business 04,Reporting production,10,70.00,700.00,2026-10-18
+BILL-3105,Sample Business 05,Systems support,12,75.00,900.00,2026-10-19
+BILL-3106,Sample Business 06,Spreadsheet automation,14,80.00,1120.00,2026-10-20
+BILL-3107,Sample Business 07,Customer support hours,16,55.00,880.00,2026-10-21
+BILL-3108,Sample Business 08,Document quality review,18,60.00,1080.00,2026-10-22
+BILL-3109,Sample Business 09,Data conversion,20,65.00,1300.00,2026-10-23
+BILL-3110,Sample Business 10,Reporting production,4,70.00,280.00,2026-10-24
+BILL-3111,Sample Business 11,Systems support,6,75.00,450.00,2026-10-25
+BILL-3112,Sample Business 12,Spreadsheet automation,8,80.00,640.00,2026-10-26
+BILL-3113,Sample Business 13,Customer support hours,10,55.00,550.00,2026-10-27
+BILL-3114,Sample Business 14,Document quality review,12,60.00,720.00,2026-10-28
+BILL-3115,Sample Business 15,Data conversion,14,65.00,910.00,2026-10-29
+BILL-3116,Sample Business 16,Reporting production,16,70.00,1120.00,2026-10-30
+BILL-3117,Sample Business 17,Systems support,18,75.00,1350.00,2026-10-31
+BILL-3118,Sample Business 18,Spreadsheet automation,20,80.00,1600.00,2026-11-01
+BILL-3119,Sample Business 19,Customer support hours,4,55.00,220.00,2026-11-02
+BILL-3120,Sample Business 20,Document quality review,6,60.00,360.00,2026-10-15
+BILL-3121,Sample Business 21,Data conversion,8,65.00,520.00,2026-10-16
+BILL-3122,Sample Business 22,Reporting production,10,70.00,700.00,2026-10-17
+BILL-3123,Sample Business 23,Systems support,12,75.00,900.00,2026-10-18
+BILL-3124,Sample Business 24,Spreadsheet automation,14,80.00,1120.00,2026-10-19

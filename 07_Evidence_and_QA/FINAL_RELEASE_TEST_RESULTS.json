@@ -1,0 +1,33 @@
+{
+  "word_docs": 13,
+  "pdfs": 25,
+  "excel_workbooks": 2,
+  "all_files": 80,
+  "portfolio_reader_pages": 62,
+  "reader_bookmarks": 157,
+  "fillable_pdf_templates": 6,
+  "specialized_form_widget_count": 67,
+  "data_entry": {
+    "APPROVED": 104,
+    "DUPLICATE": 10,
+    "HOLD": 6
+  },
+  "invoice_close_usd": {
+    "charges": "18520.00",
+    "payments": "5815.00",
+    "credits": "70.00",
+    "open": "12635.00"
+  },
+  "excel": [
+    {
+      "file": "01_Data_Entry_Verification/EXCEL_Customer_Data_Entry_and_Quality_Control.xlsx",
+      "worksheet_xml": 14,
+      "native_chart_objects": 2
+    },
+    {
+      "file": "03_Billing_Payroll/EXCEL_Billing_AR_Reconciliation_24_Invoices.xlsx",
+      "worksheet_xml": 4,
+      "native_chart_objects": 1
+    }
+  ]
+}

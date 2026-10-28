@@ -1,0 +1,4 @@
+﻿source_id,disposition,related_source,action,evidence,audit_id
+SRC-003,Duplicate,SRC-001,Do not create second master,Email matched; legal-name variant reviewed,QA-2026-001
+SRC-007,Duplicate,SRC-006,Do not create second master,Email matched; identity evidence retained,QA-2026-002
+SRC-010,Hold,,Request verified email from source,Required address missing; never inferred,QA-2026-003

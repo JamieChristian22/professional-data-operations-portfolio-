@@ -1,0 +1,41 @@
+SIMULATED AUDIO SESSION 02 | SOURCE SCRIPT (for independent evaluation)
+All voice performances are synthesized. Clock timestamps in the Word case study reflect the fictional meeting record, not WAV runtime.
+
+[09:30:02] Aisha: Okay, good morning. We need to, um, get through the vendor list before the Thursday handoff. Morgan, where are we at?
+
+[09:30:39] Morgan: Yeah, so I counted eighteen. Fourteen, 14, are ready in the portal. There are three with insurance certificates missing, and one, one supplier, still owes the W-9.
+
+[09:31:23] Rowan: For the finance side the W-9 is blocking payment setup. I can send another request today, but I need the supplier contact to verify the legal name.
+
+[09:32:03] Aisha: So let's not mark anyone ready without the required docs. I want a single owner on every item.
+
+[09:32:41] Casey: The dashboard is still showing fifteen ready, actually. That looks like a stale sync, so I'll refresh the cache and compare with the intake log.
+
+[09:33:22] Morgan: Please keep the number at fourteen for the official count until that check is finished. We shouldn't use the dashboard number in the status email.
+
+[09:34:09] Rowan: I can close the tax form if it arrives by tomorrow, October twenty-second, and the name matches the registration. Otherwise it stays pending.
+
+[09:34:51] Aisha: Agreed. Morgan, can you contact those three suppliers for certificates by Friday the twenty-third?
+
+[09:35:19] Morgan: Yes. I'll email all three today and follow up by Friday. I'll attach the evidence to the exceptions log.
+
+[09:36:04] Casey: I can do a cache refresh by the twenty-sixth, and I will add a note on the difference between the portal count and the dashboard count.
+
+[09:36:47] Aisha: Fine. The signoff will be on the twenty-eighth, assuming we have all the documents and the dashboard ties out.
+
+[09:37:29] Rowan: Wait, to clarify, the signoff doesn't itself authorize payment setup if the W-9 is still missing, right?
+
+[09:38:04] Aisha: Correct. If the W-9 is missing, that supplier remains blocked. We can approve the other eligible ones individually.
+
+[09:38:39] Morgan: Can we also add a simple weekly status line with received, verified, outstanding and escalated?
+
+[09:39:21] Casey: Yes, I'll revise the tracker labels so that verified means documentation complete, not merely submitted.
+
+[09:40:02] Aisha: Good. Let's send the update only after the operations count is reconciled. Any other blockers?
+
+[09:40:34] Rowan: Nothing else from finance. I will note if the name on the W-9 differs from the supplier record.
+
+[09:41:13] Morgan: No more on operations. I'll keep the three insurance items separate so there is no confusion.
+
+[09:41:51] Aisha: Thanks. Morgan owns the certificates, Rowan owns the W-9, Casey owns the refresh, and I own the readiness signoff. Meeting closed.
+

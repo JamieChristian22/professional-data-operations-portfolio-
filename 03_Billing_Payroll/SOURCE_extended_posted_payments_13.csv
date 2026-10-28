@@ -1,0 +1,14 @@
+﻿receipt_id,invoice_id,posting_date,amount_usd,posting_status,review_note
+RCPT-001,BILL-3101,2026-10-26,220.00,Posted,Verified matching invoice ID
+RCPT-002,BILL-3102,2026-10-26,180.00,Posted,Verified matching invoice ID
+RCPT-003,BILL-3103,2026-10-26,260.00,Posted,Verified matching invoice ID
+RCPT-004,BILL-3104,2026-10-26,700.00,Posted,Verified matching invoice ID
+RCPT-005,BILL-3105,2026-10-26,450.00,Posted,Verified matching invoice ID
+RCPT-006,BILL-3106,2026-10-26,560.00,Posted,Verified matching invoice ID
+RCPT-007,BILL-3107,2026-10-26,880.00,Posted,Verified matching invoice ID
+RCPT-008,BILL-3108,2026-10-26,540.00,Posted,Verified matching invoice ID
+RCPT-009,BILL-3109,2026-10-26,650.00,Posted,Verified matching invoice ID
+RCPT-010,BILL-3110,2026-10-26,280.00,Posted,Verified matching invoice ID
+RCPT-011,BILL-3111,2026-10-26,225.00,Posted,Verified matching invoice ID
+RCPT-012,BILL-3112,2026-10-26,320.00,Posted,Verified matching invoice ID
+RCPT-013,BILL-3113,2026-10-26,550.00,Posted,Verified matching invoice ID

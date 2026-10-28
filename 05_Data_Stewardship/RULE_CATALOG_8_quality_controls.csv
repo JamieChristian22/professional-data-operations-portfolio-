@@ -1,0 +1,9 @@
+﻿rule_id,field,dimension,target,breach_action
+DQ-01,source_id,Uniqueness,100%,block if duplicate
+DQ-02,legal_name,Completeness,>=99%,queue if missing
+DQ-03,contact_email,Syntax & completeness,>=98%,hold invalid email
+DQ-04,state,Reference validity,>=99%,hold unknown code
+DQ-05,account_owner,Ownership completeness,>=95%,assign pending owners
+DQ-06,external_key,Reference uniqueness,100% canonical,investigate collision
+DQ-07,parent_source_id,Lineage validity,100% linked refs,block orphan links
+DQ-08,source_status,Approved vocabulary,100%,correct controlled status

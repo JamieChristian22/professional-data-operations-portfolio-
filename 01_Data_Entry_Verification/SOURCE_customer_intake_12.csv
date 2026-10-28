@@ -1,0 +1,13 @@
+﻿source_id,business_name_raw,contact_raw,email_raw,state_raw,submitted_date
+001, NorthWay Office Supplies ,Mira  Kent,MIRA.KENT@northway.example,nc,2026-10-19
+002,Cedar Pine Logistics,Eli Porter,eli.porter@cedarpine.example,SC,2026-10-20
+003,Northway Office Supply,Mira Kent,mira.kent@northway.example,NC,2026-10-20
+004,laurel brook studio,Dana Ross,dana.ross@laurelbrook.example,va,2026-10-21
+005,Harbor North Dental,Rina Sol,rina.sol@harbornorth.example,NC,2026-10-21
+006,W. Glen Holdings,Jules Reed,jules.reed@westglen.example,ga,2026-10-22
+007,West Glen Holdings,Jules Reed,JULES.REED@westglen.example,GA,2026-10-22
+008,Aster Labs,Noel Park,noel.park@asterlabs.example,NC,2026-10-23
+009,Marble Finch LLC,Ada Ford,ada.ford@marblefinch.example,nc,2026-10-23
+010,Hollow Creek Foods,Lia Moss,,TN,2026-10-24
+011,Pine Lake Co,Beck Lee,beck.lee@pinelake.example,TX,2026-10-25
+012,Morningside Solar,Arlo Vega,arlo.vega@morningside.example,NC,2026-10-26

@@ -1,0 +1,5 @@
+FY 2027 ICD-10-CM: official guidelines and full code list must be checked for services from 2026-10-01 through 2027-09-30.
+CMS guidelines: https://www.cms.gov/files/document/fy-2027-icd-10-cm-coding-guidelines.pdf
+CDC files: https://www.cdc.gov/nchs/icd/icd-10-cm/files.html
+Coding samples: I10, E11.9, J06.9, M25.561, E11.65. No CPT, DRG, payer-specific edits, sequencing beyond the documented clinical reasoning, or claim-release assertion. Codes are illustrative; a coding professional should independently verify Index, Tabular notes and official guidelines before actual use.
+No real patient information exists in this portfolio.

@@ -1,0 +1,9 @@
+﻿invoice_id,customer,service,quantity,unit_price_usd
+INV-26041,Alpine Retail,Data cleanup,16,85.00
+INV-26041,Alpine Retail,Reporting setup,4,120.00
+INV-26042,Cedar & Co,Data migration,8,95.00
+INV-26042,Cedar & Co,Validation,2,140.00
+INV-26043,Westmoor Studio,Dashboard QA,12,110.00
+INV-26043,Westmoor Studio,Document preparation,3,65.00
+INV-26044,Hillcrest Office,Workflow mapping,6,120.00
+INV-26044,Hillcrest Office,Admin support,5,55.00

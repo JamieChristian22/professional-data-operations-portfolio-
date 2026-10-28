@@ -1,0 +1,29 @@
+{
+  "version": "2.0 evidence edition",
+  "project_01": {
+    "raw_rows": 12,
+    "accepted": 9,
+    "exceptions": 3,
+    "unique_final_emails": 9
+  },
+  "project_02": {
+    "audio_present": true,
+    "script_turns": 19,
+    "reference_turns": 19
+  },
+  "project_03": {
+    "ar": "2895.00",
+    "gross_payroll": "4843.63",
+    "source_service_lines": 8
+  },
+  "project_04": {
+    "synthetic_encounters": 6,
+    "held": 2
+  },
+  "project_05": {
+    "source_rows": 480,
+    "canonical_rows": 462,
+    "candidate_decisions": 27,
+    "blocking": 13
+  }
+}

@@ -1,0 +1,10 @@
+﻿master_id,source_id,legal_name,primary_contact,email,state,enrollment_date,status
+C-001,001,Northway Office Supplies,Mira Kent,mira.kent@northway.example,NC,2026-10-19,Accepted
+C-002,002,Cedar Pine Logistics,Eli Porter,eli.porter@cedarpine.example,SC,2026-10-20,Accepted
+C-003,004,Laurel Brook Studio,Dana Ross,dana.ross@laurelbrook.example,VA,2026-10-21,Accepted
+C-004,005,Harbor North Dental,Rina Sol,rina.sol@harbornorth.example,NC,2026-10-21,Accepted
+C-005,006,W. Glen Holdings,Jules Reed,jules.reed@westglen.example,GA,2026-10-22,Accepted
+C-006,008,Aster Labs,Noel Park,noel.park@asterlabs.example,NC,2026-10-23,Accepted
+C-007,009,Marble Finch LLC,Ada Ford,ada.ford@marblefinch.example,NC,2026-10-23,Accepted
+C-008,011,Pine Lake Co,Beck Lee,beck.lee@pinelake.example,TX,2026-10-25,Accepted
+C-009,012,Morningside Solar,Arlo Vega,arlo.vega@morningside.example,NC,2026-10-26,Accepted

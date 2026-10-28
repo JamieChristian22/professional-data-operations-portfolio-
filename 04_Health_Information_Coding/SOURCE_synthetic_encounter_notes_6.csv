@@ -1,0 +1,7 @@
+﻿encounter_id,date,authentication,narrative,illustrative_code,status
+PX-101,2026-10-22,Signed,Hypertension follow-up; signed assessment essential hypertension and uncomplicated type 2 diabetes,I10; E11.9,Reviewed / simulation
+PX-102,2026-10-23,Signed,"Sore throat and cough; signed assessment acute URI, unspecified",J06.9,Reviewed / simulation
+PX-103,2026-10-24,Unsigned,Draft: diabetic neuropathy?; no confirmed diagnosis,NONE,Hold / provider query
+PX-104,2026-10-25,Signed,Right knee pain; assessed and managed; no definitive etiology established,M25.561,Reviewed / symptom supported
+PX-105,2026-10-26,Signed,Type 2 diabetes with hyperglycemia explicitly diagnosed; discussed glycemic management,E11.65,Reviewed / simulation
+PX-106,2026-10-26,Signed,Possible acute cystitis versus vaginitis; pending workup; final diagnosis not established,NONE,Hold / avoid probable diagnosis

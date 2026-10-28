@@ -1,0 +1,121 @@
+﻿batch_id,organization_raw,contact_raw,email_raw,state_raw,date_raw,channel,qa_disposition,reason
+B-001,Northfield Consulting 001,Ari Morgan,account001@portfolio.example,NC,2026-10-01,web_form,APPROVED,Validated and unique
+B-002,Cedarwood Consulting 002,Dana Lee,account002@portfolio.example,SC,2026-10-02,web_form,APPROVED,Validated and unique
+B-003,Brookline Consulting 003,Mica Parker,account003@portfolio.example,VA,2026-10-03,web_form,APPROVED,Validated and unique
+B-004,Sable Consulting 004,Noel West,account004@portfolio.example,GA,2026-10-04,web_form,APPROVED,Validated and unique
+B-005,Everview Consulting 005,Jules Reed,account005@portfolio.example,FL,2026-10-05,web_form,APPROVED,Validated and unique
+B-006,Frostline Consulting 006,Taylor Patel,account006@portfolio.example,TN,2026-10-06,web_form,APPROVED,Validated and unique
+B-007,Summit Consulting 007,Remy Ford,account007@portfolio.example,TX,2026-10-07,web_form,APPROVED,Validated and unique
+B-008,Pinefield Consulting 008,Morgan Morgan,account008@portfolio.example,MD,2026-10-08,web_form,APPROVED,Validated and unique
+B-009,Mariner Consulting 009,Quinn Lee,account009@portfolio.example,NC,2026-10-09,web_form,APPROVED,Validated and unique
+B-010,White Oak Consulting 010,Eli Parker,account010@portfolio.example,SC,2026-10-10,web_form,APPROVED,Validated and unique
+B-011,Silvercrest Consulting 011,Ari West,account011@portfolio.example,VA,2026-10-11,web_form,APPROVED,Validated and unique
+B-012,Ironwood Consulting 012,Dana Reed,account012@portfolio.example,GA,2026-10-12,web_form,APPROVED,Validated and unique
+B-013,Clearwater Consulting 013,Mica Patel,account013@portfolio.example,FL,2026-10-13,web_form,APPROVED,Validated and unique
+B-014,Stonebridge Consulting 014,Noel Ford,account014@portfolio.example,TN,2026-10-14,web_form,APPROVED,Validated and unique
+B-015,Brighton Consulting 015,Jules Morgan,account015@portfolio.example,TX,2026-10-15,web_form,APPROVED,Validated and unique
+B-016,Northfield Office Services 016,Taylor Lee,account016@portfolio.example,MD,2026-10-16,web_form,APPROVED,Validated and unique
+B-017,Cedarwood Office Services 017,Remy Parker,account017@portfolio.example,NC,2026-10-17,web_form,APPROVED,Validated and unique
+B-018,Brookline Office Services 018,Morgan West,account018@portfolio.example,SC,2026-10-18,web_form,APPROVED,Validated and unique
+B-019,Sable Office Services 019,Quinn Reed,account019@portfolio.example,VA,2026-10-19,web_form,APPROVED,Validated and unique
+B-020,Everview Office Services 020,Eli Patel,account020@portfolio.example,GA,2026-10-20,web_form,APPROVED,Validated and unique
+B-021,Frostline Office Services 021,Ari Ford,account021@portfolio.example,FL,2026-10-21,web_form,APPROVED,Validated and unique
+B-022,Summit Office Services 022,Dana Morgan,account022@portfolio.example,TN,2026-10-22,web_form,APPROVED,Validated and unique
+B-023,Pinefield Office Services 023,Mica Lee,account023@portfolio.example,TX,2026-10-23,web_form,APPROVED,Validated and unique
+B-024,Mariner Office Services 024,Noel Parker,account024@portfolio.example,MD,2026-10-24,web_form,APPROVED,Validated and unique
+B-025,White Oak Office Services 025,Jules West,account025@portfolio.example,NC,2026-10-25,web_form,APPROVED,Validated and unique
+B-026,Silvercrest Office Services 026,Taylor Reed,account026@portfolio.example,SC,2026-10-26,web_form,APPROVED,Validated and unique
+B-027,Ironwood Office Services 027,Remy Patel,account027@portfolio.example,VA,2026-10-01,web_form,APPROVED,Validated and unique
+B-028,Clearwater Office Services 028,Morgan Ford,account028@portfolio.example,GA,2026-10-02,web_form,APPROVED,Validated and unique
+B-029,Stonebridge Office Services 029,Quinn Morgan,account029@portfolio.example,FL,2026-10-03,web_form,APPROVED,Validated and unique
+B-030,Brighton Office Services 030,Eli Lee,account030@portfolio.example,TN,2026-10-04,web_form,APPROVED,Validated and unique
+B-031,Northfield Distribution 031,Ari Parker,account031@portfolio.example,TX,2026-10-05,web_form,APPROVED,Validated and unique
+B-032,Cedarwood Distribution 032,Dana West,account032@portfolio.example,MD,2026-10-06,web_form,APPROVED,Validated and unique
+B-033,Brookline Distribution 033,Mica Reed,account033@portfolio.example,NC,2026-10-07,web_form,APPROVED,Validated and unique
+B-034,Sable Distribution 034,Noel Patel,account034@portfolio.example,SC,2026-10-08,web_form,APPROVED,Validated and unique
+B-035,Everview Distribution 035,Jules Ford,account035@portfolio.example,VA,2026-10-09,web_form,APPROVED,Validated and unique
+B-036,Frostline Distribution 036,Taylor Morgan,account036@portfolio.example,GA,2026-10-10,web_form,APPROVED,Validated and unique
+B-037,Summit Distribution 037,Remy Lee,account037@portfolio.example,FL,2026-10-11,web_form,APPROVED,Validated and unique
+B-038,Pinefield Distribution 038,Morgan Parker,account038@portfolio.example,TN,2026-10-12,web_form,APPROVED,Validated and unique
+B-039,Mariner Distribution 039,Quinn West,account039@portfolio.example,TX,2026-10-13,web_form,APPROVED,Validated and unique
+B-040,White Oak Distribution 040,Eli Reed,account040@portfolio.example,MD,2026-10-14,web_form,APPROVED,Validated and unique
+B-041,Silvercrest Distribution 041,Ari Patel,account041@portfolio.example,NC,2026-10-15,web_form,APPROVED,Validated and unique
+B-042,Ironwood Distribution 042,Dana Ford,account042@portfolio.example,SC,2026-10-16,web_form,APPROVED,Validated and unique
+B-043,Clearwater Distribution 043,Mica Morgan,account043@portfolio.example,VA,2026-10-17,web_form,APPROVED,Validated and unique
+B-044,Stonebridge Distribution 044,Noel Lee,account044@portfolio.example,GA,2026-10-18,web_form,APPROVED,Validated and unique
+B-045,Brighton Distribution 045,Jules Parker,account045@portfolio.example,FL,2026-10-19,web_form,APPROVED,Validated and unique
+B-046,Northfield IT Services 046,Taylor West,account046@portfolio.example,TN,2026-10-20,web_form,APPROVED,Validated and unique
+B-047,Cedarwood IT Services 047,Remy Reed,account047@portfolio.example,TX,2026-10-21,web_form,APPROVED,Validated and unique
+B-048,Brookline IT Services 048,Morgan Patel,account048@portfolio.example,MD,2026-10-22,web_form,APPROVED,Validated and unique
+B-049,Sable IT Services 049,Quinn Ford,account049@portfolio.example,NC,2026-10-23,web_form,APPROVED,Validated and unique
+B-050,Everview IT Services 050,Eli Morgan,account050@portfolio.example,SC,2026-10-24,web_form,APPROVED,Validated and unique
+B-051,Frostline IT Services 051,Ari Lee,account051@portfolio.example,VA,2026-10-25,web_form,APPROVED,Validated and unique
+B-052,Summit IT Services 052,Dana Parker,account052@portfolio.example,GA,2026-10-26,web_form,APPROVED,Validated and unique
+B-053,Pinefield IT Services 053,Mica West,account053@portfolio.example,FL,2026-10-01,web_form,APPROVED,Validated and unique
+B-054,Mariner IT Services 054,Noel Reed,account054@portfolio.example,TN,2026-10-02,web_form,APPROVED,Validated and unique
+B-055,White Oak IT Services 055,Jules Patel,account055@portfolio.example,TX,2026-10-03,web_form,APPROVED,Validated and unique
+B-056,Silvercrest IT Services 056,Taylor Ford,account056@portfolio.example,MD,2026-10-04,web_form,APPROVED,Validated and unique
+B-057,Ironwood IT Services 057,Remy Morgan,account057@portfolio.example,NC,2026-10-05,web_form,APPROVED,Validated and unique
+B-058,Clearwater IT Services 058,Morgan Lee,account058@portfolio.example,SC,2026-10-06,web_form,APPROVED,Validated and unique
+B-059,Stonebridge IT Services 059,Quinn Parker,account059@portfolio.example,VA,2026-10-07,web_form,APPROVED,Validated and unique
+B-060,Brighton IT Services 060,Eli West,account060@portfolio.example,GA,2026-10-08,web_form,APPROVED,Validated and unique
+B-061,Northfield Supply Group 061,Ari Reed,account061@portfolio.example,FL,2026-10-09,web_form,APPROVED,Validated and unique
+B-062,Cedarwood Supply Group 062,Dana Patel,account062@portfolio.example,TN,2026-10-10,web_form,APPROVED,Validated and unique
+B-063,Brookline Supply Group 063,Mica Ford,account063@portfolio.example,TX,2026-10-11,web_form,APPROVED,Validated and unique
+B-064,Sable Supply Group 064,Noel Morgan,account064@portfolio.example,MD,2026-10-12,web_form,APPROVED,Validated and unique
+B-065,Everview Supply Group 065,Jules Lee,account065@portfolio.example,NC,2026-10-13,web_form,APPROVED,Validated and unique
+B-066,Frostline Supply Group 066,Taylor Parker,account066@portfolio.example,SC,2026-10-14,web_form,APPROVED,Validated and unique
+B-067,Summit Supply Group 067,Remy West,account067@portfolio.example,VA,2026-10-15,web_form,APPROVED,Validated and unique
+B-068,Pinefield Supply Group 068,Morgan Reed,account068@portfolio.example,GA,2026-10-16,web_form,APPROVED,Validated and unique
+B-069,Mariner Supply Group 069,Quinn Patel,account069@portfolio.example,FL,2026-10-17,web_form,APPROVED,Validated and unique
+B-070,White Oak Supply Group 070,Eli Ford,account070@portfolio.example,TN,2026-10-18,web_form,APPROVED,Validated and unique
+B-071,Silvercrest Supply Group 071,Ari Morgan,account071@portfolio.example,TX,2026-10-19,web_form,APPROVED,Validated and unique
+B-072,Ironwood Supply Group 072,Dana Lee,account072@portfolio.example,MD,2026-10-20,web_form,APPROVED,Validated and unique
+B-073,Clearwater Supply Group 073,Mica Parker,account073@portfolio.example,NC,2026-10-21,web_form,APPROVED,Validated and unique
+B-074,Stonebridge Supply Group 074,Noel West,account074@portfolio.example,SC,2026-10-22,web_form,APPROVED,Validated and unique
+B-075,Brighton Supply Group 075,Jules Reed,account075@portfolio.example,VA,2026-10-23,web_form,APPROVED,Validated and unique
+B-076,Northfield Analytics 076,Taylor Patel,account076@portfolio.example,GA,2026-10-24,web_form,APPROVED,Validated and unique
+B-077,Cedarwood Analytics 077,Remy Ford,account077@portfolio.example,FL,2026-10-25,web_form,APPROVED,Validated and unique
+B-078,Brookline Analytics 078,Morgan Morgan,account078@portfolio.example,TN,2026-10-26,web_form,APPROVED,Validated and unique
+B-079,Sable Analytics 079,Quinn Lee,account079@portfolio.example,TX,2026-10-01,web_form,APPROVED,Validated and unique
+B-080,Everview Analytics 080,Eli Parker,account080@portfolio.example,MD,2026-10-02,web_form,APPROVED,Validated and unique
+B-081,Frostline Analytics 081,Ari West,account081@portfolio.example,NC,2026-10-03,web_form,APPROVED,Validated and unique
+B-082,Summit Analytics 082,Dana Reed,account082@portfolio.example,SC,2026-10-04,web_form,APPROVED,Validated and unique
+B-083,Pinefield Analytics 083,Mica Patel,account083@portfolio.example,VA,2026-10-05,web_form,APPROVED,Validated and unique
+B-084,Mariner Analytics 084,Noel Ford,account084@portfolio.example,GA,2026-10-06,web_form,APPROVED,Validated and unique
+B-085,White Oak Analytics 085,Jules Morgan,account085@portfolio.example,FL,2026-10-07,web_form,APPROVED,Validated and unique
+B-086,Silvercrest Analytics 086,Taylor Lee,account086@portfolio.example,TN,2026-10-08,web_form,APPROVED,Validated and unique
+B-087,Ironwood Analytics 087,Remy Parker,account087@portfolio.example,TX,2026-10-09,web_form,APPROVED,Validated and unique
+B-088,Clearwater Analytics 088,Morgan West,account088@portfolio.example,MD,2026-10-10,web_form,APPROVED,Validated and unique
+B-089,Stonebridge Analytics 089,Quinn Reed,account089@portfolio.example,NC,2026-10-11,web_form,APPROVED,Validated and unique
+B-090,Brighton Analytics 090,Eli Patel,account090@portfolio.example,SC,2026-10-12,web_form,APPROVED,Validated and unique
+B-091,Northfield Creative Works 091,Ari Ford,account091@portfolio.example,VA,2026-10-13,web_form,APPROVED,Validated and unique
+B-092,Cedarwood Creative Works 092,Dana Morgan,account092@portfolio.example,GA,2026-10-14,web_form,APPROVED,Validated and unique
+B-093,Brookline Creative Works 093,Mica Lee,account093@portfolio.example,FL,2026-10-15,web_form,APPROVED,Validated and unique
+B-094,Sable Creative Works 094,Noel Parker,account094@portfolio.example,TN,2026-10-16,web_form,APPROVED,Validated and unique
+B-095,Everview Creative Works 095,Jules West,account095@portfolio.example,TX,2026-10-17,web_form,APPROVED,Validated and unique
+B-096,Frostline Creative Works 096,Taylor Reed,account096@portfolio.example,MD,2026-10-18,web_form,APPROVED,Validated and unique
+B-097,Summit Creative Works 097,Remy Patel,account097@portfolio.example,NC,2026-10-19,web_form,APPROVED,Validated and unique
+B-098,Pinefield Creative Works 098,Morgan Ford,account098@portfolio.example,SC,2026-10-20,web_form,APPROVED,Validated and unique
+B-099,Mariner Creative Works 099,Quinn Morgan,account099@portfolio.example,VA,2026-10-21,web_form,APPROVED,Validated and unique
+B-100,White Oak Creative Works 100,Eli Lee,account100@portfolio.example,GA,2026-10-22,web_form,APPROVED,Validated and unique
+B-101,Silvercrest Creative Works 101,Ari Parker,account101@portfolio.example,FL,2026-10-23,web_form,APPROVED,Validated and unique
+B-102,Ironwood Creative Works 102,Dana West,account102@portfolio.example,TN,2026-10-24,web_form,APPROVED,Validated and unique
+B-103,Clearwater Creative Works 103,Mica Reed,account103@portfolio.example,TX,2026-10-25,web_form,APPROVED,Validated and unique
+B-104,Stonebridge Creative Works 104,Noel Patel,account104@portfolio.example,MD,2026-10-26,web_form,APPROVED,Validated and unique
+B-105,  FROSTLINE CONSULTING 006 ,Taylor Patel,ACCOUNT006@PORTFOLIO.EXAMPLE,TN,2026-10-06,repeat_upload,DUPLICATE,Existing approved customer contact
+B-106,  BRIGHTON CONSULTING 015 ,Jules Morgan,ACCOUNT015@PORTFOLIO.EXAMPLE,TX,2026-10-15,repeat_upload,DUPLICATE,Existing approved customer contact
+B-107,  MARINER OFFICE SERVICES 024 ,Noel Parker,ACCOUNT024@PORTFOLIO.EXAMPLE,MD,2026-10-24,repeat_upload,DUPLICATE,Existing approved customer contact
+B-108,  BROOKLINE DISTRIBUTION 033 ,Mica Reed,ACCOUNT033@PORTFOLIO.EXAMPLE,NC,2026-10-07,repeat_upload,DUPLICATE,Existing approved customer contact
+B-109,  IRONWOOD DISTRIBUTION 042 ,Dana Ford,ACCOUNT042@PORTFOLIO.EXAMPLE,SC,2026-10-16,repeat_upload,DUPLICATE,Existing approved customer contact
+B-110,  FROSTLINE IT SERVICES 051 ,Ari Lee,ACCOUNT051@PORTFOLIO.EXAMPLE,VA,2026-10-25,repeat_upload,DUPLICATE,Existing approved customer contact
+B-111,  BRIGHTON IT SERVICES 060 ,Eli West,ACCOUNT060@PORTFOLIO.EXAMPLE,GA,2026-10-08,repeat_upload,DUPLICATE,Existing approved customer contact
+B-112,  MARINER SUPPLY GROUP 069 ,Quinn Patel,ACCOUNT069@PORTFOLIO.EXAMPLE,FL,2026-10-17,repeat_upload,DUPLICATE,Existing approved customer contact
+B-113,  BROOKLINE ANALYTICS 078 ,Morgan Morgan,ACCOUNT078@PORTFOLIO.EXAMPLE,TN,2026-10-26,repeat_upload,DUPLICATE,Existing approved customer contact
+B-114,  IRONWOOD ANALYTICS 087 ,Remy Parker,ACCOUNT087@PORTFOLIO.EXAMPLE,TX,2026-10-09,repeat_upload,DUPLICATE,Existing approved customer contact
+B-115,Silvercrest Supply Group 071 Pending,Ari Morgan,,TX,2026-10-19,manual_form,HOLD,Missing or invalid contact email
+B-116,Ironwood Supply Group 072 Pending,Dana Lee,not-an-email,MD,2026-10-20,manual_form,HOLD,Missing or invalid contact email
+B-117,Clearwater Supply Group 073 Pending,Mica Parker,,NC,2026-10-21,manual_form,HOLD,Missing or invalid contact email
+B-118,Stonebridge Supply Group 074 Pending,Noel West,not-an-email,SC,2026-10-22,manual_form,HOLD,Missing or invalid contact email
+B-119,Brighton Supply Group 075 Pending,Jules Reed,,VA,2026-10-23,manual_form,HOLD,Missing or invalid contact email
+B-120,Northfield Analytics 076 Pending,Taylor Patel,not-an-email,GA,2026-10-24,manual_form,HOLD,Missing or invalid contact email

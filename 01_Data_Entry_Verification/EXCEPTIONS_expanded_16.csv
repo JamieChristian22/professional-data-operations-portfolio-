@@ -1,0 +1,17 @@
+﻿batch_id,status,issue,remediation,owner,workflow_state
+B-105,DUPLICATE,Existing approved customer contact,Suppress new master and verify match,QA Lead,Closed - linked
+B-106,DUPLICATE,Existing approved customer contact,Suppress new master and verify match,QA Lead,Closed - linked
+B-107,DUPLICATE,Existing approved customer contact,Suppress new master and verify match,QA Lead,Closed - linked
+B-108,DUPLICATE,Existing approved customer contact,Suppress new master and verify match,QA Lead,Closed - linked
+B-109,DUPLICATE,Existing approved customer contact,Suppress new master and verify match,QA Lead,Closed - linked
+B-110,DUPLICATE,Existing approved customer contact,Suppress new master and verify match,QA Lead,Closed - linked
+B-111,DUPLICATE,Existing approved customer contact,Suppress new master and verify match,QA Lead,Closed - linked
+B-112,DUPLICATE,Existing approved customer contact,Suppress new master and verify match,QA Lead,Closed - linked
+B-113,DUPLICATE,Existing approved customer contact,Suppress new master and verify match,QA Lead,Closed - linked
+B-114,DUPLICATE,Existing approved customer contact,Suppress new master and verify match,QA Lead,Closed - linked
+B-115,HOLD,Missing or invalid contact email,Request source correction,Data Ops,Unresolved
+B-116,HOLD,Missing or invalid contact email,Request source correction,Data Ops,Unresolved
+B-117,HOLD,Missing or invalid contact email,Request source correction,Data Ops,Unresolved
+B-118,HOLD,Missing or invalid contact email,Request source correction,Data Ops,Unresolved
+B-119,HOLD,Missing or invalid contact email,Request source correction,Data Ops,Unresolved
+B-120,HOLD,Missing or invalid contact email,Request source correction,Data Ops,Unresolved

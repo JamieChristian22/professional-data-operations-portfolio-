@@ -1,0 +1,5 @@
+﻿posting_id,posted_date,invoice_id,type,amount_usd
+RCPT-991,2026-10-14,INV-26041,Receipt,900.00
+CR-26008,2026-10-17,INV-26042,Credit,100.00
+RCPT-996,2026-10-20,INV-26042,Receipt,500.00
+RCPT-1004,2026-10-16,INV-26044,Receipt,995.00

@@ -1,0 +1,19 @@
+[09:30] Aisha Bennett: We need to complete the vendor readiness review before Thursday’s handoff. Morgan, please provide the current status.
+[09:30] Morgan Hale: We have 18 vendors: 14 ready in the portal, three missing insurance certificates, and one missing a W-9.
+[09:31] Rowan Gray: The missing W-9 blocks payment setup. I can request it today, but the supplier’s legal name must be verified.
+[09:32] Aisha Bennett: Do not mark a supplier ready without the required documents. Assign one owner to each exception.
+[09:32] Casey Liu: The dashboard shows 15 ready; that appears to be a stale synchronization. I will refresh and reconcile it against the intake log.
+[09:33] Morgan Hale: Use 14 as the official ready count until reconciliation is complete. Do not circulate the dashboard figure.
+[09:34] Rowan Gray: If the W-9 arrives by October 22 and the legal name matches, I can close the tax-form exception. Otherwise it remains pending.
+[09:34] Aisha Bennett: Morgan, contact the three suppliers for insurance certificates by Friday, October 23.
+[09:35] Morgan Hale: I will email them today, follow up by October 23, and attach evidence to the exceptions log.
+[09:36] Casey Liu: I will refresh the cache by October 26 and document any difference between portal and dashboard counts.
+[09:36] Aisha Bennett: Readiness signoff is targeted for October 28, subject to document completion and count reconciliation.
+[09:37] Rowan Gray: Does signoff permit payment setup if a W-9 remains missing?
+[09:38] Aisha Bennett: No. Any supplier lacking a W-9 remains blocked. Eligible suppliers may be approved individually.
+[09:38] Morgan Hale: We should add weekly status counts for received, verified, outstanding, and escalated.
+[09:39] Casey Liu: I will revise tracker labels. “Verified” will mean documentation complete, not merely submitted.
+[09:40] Aisha Bennett: Issue the status update only after the operations count is reconciled.
+[09:40] Rowan Gray: Finance will flag any legal-name mismatch on the W-9.
+[09:41] Morgan Hale: The three insurance exceptions will remain separate in the log.
+[09:41] Aisha Bennett: Owners: Morgan—certificates; Rowan—W-9; Casey—dashboard refresh; Aisha—signoff. Meeting closed.

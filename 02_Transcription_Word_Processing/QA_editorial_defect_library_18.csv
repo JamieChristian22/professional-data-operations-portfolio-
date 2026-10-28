@@ -1,0 +1,19 @@
+﻿test_id,risk_type,example,review_response
+01,Speaker attribution,Unknown voice label,Retain [Speaker unknown] and request clarification
+02,Uncertain numeric value,14 or 40 items,Mark [unclear]; do not guess
+03,Homophones,their / there,Resolve only with context
+04,Date mentioned,next Friday,Use literal date phrase if meeting date uncertain
+05,Meeting decision,Proposal spoken as fact,Record as proposed until explicitly approved
+06,Open issue,Issue mistaken for resolved,Capture status as open
+07,Owner missing,Action has no assignee,Raise minutes query
+08,Overlong sentence,Hard to scan,Add safe punctuation without changing meaning
+09,Confidential item,Sensitive value in distribution,Flag for approved redaction
+10,Filler words,Heavy verbal hesitations,Use defined clean-read policy
+11,Unclear acronym,Acronym may be multiple terms,Retain spoken version and mark review
+12,Terminology drift,Same product different spelling,Apply approved proper-noun glossary
+13,File naming,Draft indistinguishable from final,Apply naming convention
+14,Version control,V2 overwritten by V1,Retain version history
+15,Unapproved rewording,Meaning altered,Revert and document editor decision
+16,Action deadline,Time zone omitted,Preserve given phrasing and flag ambiguity
+17,Number in title,Header differs from source,Review numeric consistency
+18,Final proof,Page break or table overflow,Render and inspect every page

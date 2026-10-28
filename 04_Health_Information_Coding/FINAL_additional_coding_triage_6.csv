@@ -1,0 +1,7 @@
+﻿encounter_id,release_state,next_owner_action,code_status
+PX-107,Code review - symptom only,Do not infer disease cause,NO NEW CODE ASSIGNED - REVIEW REQUIRED
+PX-108,HOLD - unsigned,Obtain authenticated note,NO NEW CODE ASSIGNED - REVIEW REQUIRED
+PX-109,Code review - history context,Review documentation and official index,NO NEW CODE ASSIGNED - REVIEW REQUIRED
+PX-110,HOLD - uncertain diagnosis,Do not code suspected as confirmed outpatient diagnosis,NO NEW CODE ASSIGNED - REVIEW REQUIRED
+PX-111,HOLD - specificity,Seek non-leading clarification,NO NEW CODE ASSIGNED - REVIEW REQUIRED
+PX-112,Code review - verify purpose,Check official code set and encounter facts,NO NEW CODE ASSIGNED - REVIEW REQUIRED
