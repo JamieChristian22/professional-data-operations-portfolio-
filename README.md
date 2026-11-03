@@ -548,3 +548,7 @@ My focus is on producing organized, accurate, traceable, and professionally docu
 **© 2026 Jamie Christian II — Professional Portfolio**
 
 *All examples are synthetic training and demonstration materials.*
+
+## License and third-party materials
+
+See [LICENSE](LICENSE) for the repository license. Third-party code, datasets, images, and other assets retain their respective terms.
